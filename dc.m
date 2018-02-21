@@ -45,3 +45,22 @@ for i=1:n
     
 end
 disp(code);
+
+
+%%codeword conversion
+for i=1:4
+    for j=1:2
+        if (j==1) 
+            codeword(i, j) = xor(xor(xor(xor(A(1), A(2)), A(4)), A(5)), A(6));
+        else
+            codeword(i, j) = xor(xor(xor(xor(A(1), A(2)), A(3)), A(5)), A(6));
+        end
+    end
+end
+
+%OR
+
+for i=1:4
+    codeword(i, 1) = xor(xor(xor(xor(A(1), A(2)), A(4)), A(5)), A(6));   
+    codeword(i, 2) = xor(xor(xor(xor(A(1), A(2)), A(3)), A(5)), A(6));     
+end
