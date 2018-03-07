@@ -29,5 +29,5 @@ Task undertaken as this project is to write a MATLAB code for convolution (2, 1,
 
 ### Contributors:
 __________________
-* #### Namrata Ladda            (16CO121)
-* #### Aditi Gupta              (16CO202)
+*  Namrata Ladda            (16CO121)
+*  Aditi Gupta              (16CO202)
