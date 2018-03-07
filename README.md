@@ -1,6 +1,6 @@
 # Error detection and correction using Viterbi decoding and path-metric
 
-Task undertaken as this project is to write a MATLAB convolution (2, 1, 9) decoding with g1 = 110111 and g2 = 111011 and perform analysis of percentage error detection and correction using Viterbi Algorithm and path-metric. [Q. B-48]
+Task undertaken as this project is to write a MATLAB code for convolution (2, 1, 9) decoding with g1 = 110111 and g2 = 111011 and perform analysis of percentage error detection and correction using Viterbi Algorithm and path-metric. [Q. B-48]
 
 ## Input:
 
